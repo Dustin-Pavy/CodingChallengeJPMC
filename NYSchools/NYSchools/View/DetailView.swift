@@ -2,7 +2,7 @@
 //  DetailView.swift
 //  NYSchools
 //
-//  Created by Consultant on 9/7/23.
+//  Created by Dustin Pavy on 9/7/23.
 //
 
 import SwiftUI

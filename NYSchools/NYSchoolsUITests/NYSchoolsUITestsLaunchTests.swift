@@ -2,7 +2,7 @@
 //  NYSchoolsUITestsLaunchTests.swift
 //  NYSchoolsUITests
 //
-//  Created by Consultant on 9/6/23.
+//  Created by Dustin Pavy on 9/6/23.
 //
 
 import XCTest
